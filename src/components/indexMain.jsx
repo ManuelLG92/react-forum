@@ -50,6 +50,7 @@ const Index = ({auth}) =>  {
   {
     margin: '3em',
     color: 'dark'
+     color: 'dark'
 }*/
 
    
